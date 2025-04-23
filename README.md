@@ -4,6 +4,8 @@ This is a modern React project built with TailwindCSS, React Hook Form, Zod, Fra
 
 Live Link : https://fe-mock-test-eta.vercel.app/
 
+# Light Mode and Dark Mode Added
+
 ## 🚀 Tech Stack
 
 - **React**
