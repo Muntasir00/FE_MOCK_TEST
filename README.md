@@ -5,8 +5,9 @@ This is a modern React project built with TailwindCSS, React Hook Form, Zod, Fra
 Live Link : https://fe-mock-test-eta.vercel.app/
 
 - **Light Mode and Dark Mode Added **
-- **Settings menu Added**
-You can change front menu and color and also reset to default
+- **Settings menu **
+  
+- You can change font type and color , and also reset to the default
 
 ## 🚀 Tech Stack
 
